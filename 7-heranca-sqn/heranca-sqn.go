@@ -22,5 +22,5 @@ func main() {
 	fmt.Println(p1)
 
 	e1 := estudante{p1, "Engenharia de Software", 1}
-	fmt.Println(e1.altura, e1.nome)
+	fmt.Println(e1)
 }
